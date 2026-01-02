@@ -14,7 +14,7 @@ https://doi.org/10.5281/zenodo.16945197
 ### - Static Analysis of the Trek Supercaliber Bicycle Frame
 **Note:** The CAD model is available only as a simplified sample, along with the FEM simulations.
 
-### - 5 kW Wind Turbine Drivetrain – Case Study [View](Wind_Turbine_5kW)
+### - 5 kW Wind Turbine Drivetrain – Case Study [View](Wind_Turbine_5KW)
 This is a reconstructed case study. The CAD model is not available due to data loss; however, the analysis and design rationale are documented.
 
 ## Tovi Lab - 3d printing projects [View](tovilab-portfolio)
