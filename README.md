@@ -17,7 +17,7 @@ https://doi.org/10.5281/zenodo.16945197
 ### - 5 kW Wind Turbine Drivetrain – Case Study
 This is a reconstructed case study. The CAD model is not available due to data loss; however, the analysis and design rationale are documented.
 
-## Tovi Lab - 3d printing projects (View)[tovilab-portfolio]
+## Tovi Lab - 3d printing projects (View)[tovilab-portfolio/]
 
 
 
