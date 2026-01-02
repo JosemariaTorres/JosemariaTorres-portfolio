@@ -11,7 +11,7 @@ https://doi.org/10.5281/zenodo.16945197
 
 ## Undergraduate Course Projects
 
-[-] ### Static Analysis of the Trek Supercaliber Bicycle Frame
+### [-] Static Analysis of the Trek Supercaliber Bicycle Frame
 **Note:** The CAD model is available only as a simplified sample, along with the FEM simulations.
 
 [-] ### 5 kW Wind Turbine Drivetrain – Case Study
