@@ -5,7 +5,7 @@ This repository presents a selection of my academic and creative work, including
 ## Bachelor’s Thesis (Content in Spanish Only)
 
 ### Numerical Modeling of a Mountain Bike Frame in a Polymeric Fiber / Plastic Matrix Composite for Weight Reduction
-(DOI)[https://doi.org/10.5281/zenodo.16945197]
+[DOI](https://doi.org/10.5281/zenodo.16945197)
 
 **Note:** This is a reconstructed version of the original work. The CAD files are not available; however, the MATLAB code has been rebuilt based on the thesis documentation.
 
