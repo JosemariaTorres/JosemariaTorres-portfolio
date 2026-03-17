@@ -2,7 +2,7 @@
 
 **Mechanical-Electrical Engineer** · SolidWorks CAD · FEM Simulation · FDM 3D Printing  
 USAT, 2022 · Chiclayo, Peru  
-[LinkedIn](https://www.linkedin.com/in/) · [Upwork](https://www.upwork.com/freelancers/)
+[LinkedIn](https://www.linkedin.com/in/) · [Email](mailto:josemaria.torres.vi@gmail.com)
 
 ---
 
