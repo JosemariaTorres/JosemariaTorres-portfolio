@@ -1,7 +1,6 @@
 # Josemaria Torres — Engineering Portfolio
 
 **Mechanical-Electrical Engineer** · SolidWorks CAD · FEM Simulation · FDM 3D Printing  
-[LinkedIn](https://www.linkedin.com/in/) · [Email](mailto:josemaria.torres.vi@gmail.com)
 
 ---
 
