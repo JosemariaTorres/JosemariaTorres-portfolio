@@ -121,7 +121,7 @@ Fully original SolidWorks design of a functional Captain America shield optimize
 | CAD Modeling | SolidWorks |
 | FEM Simulation | SolidWorks Simulation, ANSYS Fluent |
 | CFD | SolidWorks Flow Simulation |
-| 3D Printing | OrcaSlicer, FDM (PLA+, PETG) |
+| 3D Printing | OrcaSlicer, FDM (PLA+, PETG, TPU) |
 | Scripting | MATLAB, Python |
 | Documentation | Technical case studies, engineering reports |
 
