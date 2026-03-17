@@ -131,7 +131,7 @@ Fully original SolidWorks design of a functional Captain America shield optimize
 ## Contact
 
 Open to freelance work in CAD modeling, FEM simulation, and FDM product development.  
-📧 [your email] · [LinkedIn] · [Upwork]
+📧 [Email](mailto:josemaria.torres.vi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/)
 
 
 # JosemariaTorres-portfolio
